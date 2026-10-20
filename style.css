@@ -1,6 +1,9 @@
 
 .topmenu{
     display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     justify-content: center;
