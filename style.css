@@ -1,4 +1,6 @@
-
+.middlepart{
+    background-color: #e5ffe6;
+}
 .topmenu{
     display: flex;
     flex-direction: row;
