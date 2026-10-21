@@ -1,6 +1,7 @@
 .middlepart{
     background-color: #e5ffe6;
-    padding: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .topmenu{
     display: flex;
