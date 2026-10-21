@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 *topmenu{
 =======
@@ -8,7 +8,7 @@
     padding-top: 10px;
 }
 .topmenu{
->>>>>>> 07d9aa1e9938d518744b1e7bf63cbca7ae4df3ca
+
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
